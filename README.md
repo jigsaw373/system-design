@@ -25,7 +25,7 @@ If you find any **bugs** in the examples, please file an issue.
 
 ### installation
 * install [Graphviz](https://graphviz.gitlab.io/download/)
-* install requirements `pip install requirements`
+* install requirements `pip install -r requirements`
 * generate new diagram `python main.py` in the specific dir e.g. aws
 
 ### TODO:
