@@ -1,7 +1,7 @@
 # Github Actions AWS
 inspired from [philips-labs](https://github.com/philips-labs/terraform-aws-github-runner)
 <p align="center" style="text-align:center;">
-    <img alt="github actions aws" src="github_runner_aws.png" width="500" />
+    <img alt="github actions aws" src="github_runner_aws.png" width="whatever" height="whatever"/>
 </p>
 
 ### TODO:
