@@ -21,10 +21,10 @@ As the cloud space rapidly expands and technologies constantly evolve, understan
 
 - [GitHub Actions](github-action/README.md)
     - **Cloud Platform Comparisons**:
-        - [AWS](aws/README.md)
-        - [Azure](azure/README.md)
-        - [GCP (Google Cloud Platform)](gcp/README.md)
-        - [Alibaba Cloud](alibaba/README.md)
+        - [AWS](github-action/aws/README.md)
+        - [Azure](github-action/azure/README.md)
+        - [GCP (Google Cloud Platform)](github-action/gcp/README.md)
+        - [Alibaba Cloud](github-action/alibaba/README.md)
 
 ## 🌍 How to Contribute
 
